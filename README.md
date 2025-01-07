@@ -1,4 +1,4 @@
-![banner](https://github.com/user-attachments/assets/df151446-517e-4b18-a52d-e4d6ee8d5ae2)
+![A (1)](https://github.com/user-attachments/assets/0f5de328-d8ae-4240-94b6-5a328439dfb7)
 
 <h1 align="center">Hi 👋, I'm Amir Mubarek</h1>
 <h3 align="center">A passionate Full-Stack developer from Ethiopia</h3>
