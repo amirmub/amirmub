@@ -1,4 +1,5 @@
- 
+![banner](https://github.com/user-attachments/assets/df151446-517e-4b18-a52d-e4d6ee8d5ae2)
+
 <h1 align="center">Hi 👋, I'm Amir Mubarek</h1>
 <h3 align="center">A passionate Full-Stack developer from Ethiopia</h3>
 <img align="right" alt="coding" width="400px" src="https://as1.ftcdn.net/v2/jpg/10/04/21/54/1000_F_1004215499_v2M0f1XpEQuFJQyI8qy82N0oExck8gyS.jpg">
