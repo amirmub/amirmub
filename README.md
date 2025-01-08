@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Amir Mubarek</h1>
-<h3 align="center">A passionate Full-Stack developer from Ethiopia</h3>
+<h3 align="center">A passionate a Web developer from Ethiopia</h3>
 <img align="right" alt="coding" width="400px" src="https://as1.ftcdn.net/v2/jpg/10/04/21/54/1000_F_1004215499_v2M0f1XpEQuFJQyI8qy82N0oExck8gyS.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirmub&label=Profile%20views&color=0e75b6&style=flat" alt="amirmub" /> </p>
