@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [my-portfolio-by-amir.netlify.app](https://my-portfolio-by-amir.netlify.app)
+- 👨‍💻 All of my projects are available at [my-portfolio-by-amir.netlify.app](https://my-portfolio.netlify.app)
 
 - 📫 How to reach me **amirmubarek01@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **I am Funny😄**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
