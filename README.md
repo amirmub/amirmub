@@ -1,3 +1,4 @@
+![A (3)](https://github.com/user-attachments/assets/1f73dd72-07c8-494e-b0ad-a0a0cf864610)
 
 
 <h1 align="center">Hi 👋, I'm Amir Mubarek</h1>
@@ -8,7 +9,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [my-portfolio-by-amir.netlify.app](https://my-portfolio.netlify.app)
+- 👨‍💻 All of my projects are available at [my-portfolio.netlify.app](https://my-portfolio.netlify.app)
 
 - 📫 How to reach me **amirmubarek01@gmail.com**
 
