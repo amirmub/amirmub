@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [my-portfolio-1.netlify.app](https://my-portfolio-1.netlify.app)
+- 👨‍💻 All of my projects are available at [portfolio-by-amir.netlify.app](https://portfolio-by-amir.netlify.app)
 
 - 📫 How to reach me **amirmubarek01@gmail.com**
 
