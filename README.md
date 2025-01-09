@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [my-portfoloio](https://my-portfoloio)
+- 👨‍💻 All of my projects are available at [my-portfolio](https://my-portfolio)
 
 - 📫 How to reach me **amirmubarek01@gmail.com**
 
