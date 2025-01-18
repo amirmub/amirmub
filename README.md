@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirmub&label=Profile%20views&color=0e75b6&style=flat" alt="amirmub" /> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React Hooks**
 
 - 👨‍💻 All of my projects are available at [my-portfolio.io](https://my-portfolio.io)
 
