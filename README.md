@@ -29,8 +29,12 @@
 
 ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amirmub&show_icons=true&locale=en&layout=compact" alt="amirmub" /></p>
+<div class="stats" align="center">
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amirmub&show_icons=true&locale=en" alt="amirmub" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amirmub&show_icons=true&locale=en" alt="amirmub" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amirmub&" alt="amirmub"/></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amirmub&" alt="amirmub"/></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amirmub&show_icons=true&locale=en&layout=compact" alt="amirmub" /></p>
+</div>
+
+
