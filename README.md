@@ -34,7 +34,7 @@
 
   <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=amirmub&" alt="amirmub"/></p>
 
-  <p>&nbsp;<img align="right" style = "margin-top : 30px" src="https://github-readme-stats.vercel.app/api?username=amirmub&show_icons=true&locale=en" alt="amirmub" /></p>
+  <p>&nbsp;<img align="left" style = "margin-top : 30px" src="https://github-readme-stats.vercel.app/api?username=amirmub&show_icons=true&locale=en" alt="amirmub" /></p>
     <br/>
     <br/>
     <br/>
@@ -42,4 +42,4 @@
 
 
     
-  <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=amirmub&show_icons=true&locale=en&layout=compact" alt="amirmub" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amirmub&show_icons=true&locale=en&layout=compact" alt="amirmub" /></p>
