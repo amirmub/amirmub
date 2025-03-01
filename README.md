@@ -1,4 +1,3 @@
-![A (3)](https://github.com/user-attachments/assets/1f73dd72-07c8-494e-b0ad-a0a0cf864610)
 
 
 <h1 align="center">Hi 👋, I'm Amir Mubarek</h1>
@@ -6,10 +5,6 @@
 <img align="right" alt="coding" width="400px" src="https://as1.ftcdn.net/v2/jpg/10/04/21/54/1000_F_1004215499_v2M0f1XpEQuFJQyI8qy82N0oExck8gyS.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirmub&label=Profile%20views&color=0e75b6&style=flat" alt="amirmub" /> </p>
-
-- 🌱 I’m currently learning **React Hooks**
-
-- 👨‍💻 All of my projects are available at [my-portfolio.io](https://my-portfolio.io)
 
 - 📫 How to reach me **amirmubarek01@gmail.com**
 
