@@ -30,7 +30,7 @@
   <a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express" height="40" /></a>&nbsp
   <a href="https://reactjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=react" height="40" /></a>&nbsp
   <a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" height="40" /></a>&nbsp
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" height="40" /></a>&nbsp
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" height="40" /></a>&nbsp <br> <br>
   <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" height="40" /></a>&nbsp
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" height="40" /></a>&nbsp
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" height="40" /></a>&nbsp
