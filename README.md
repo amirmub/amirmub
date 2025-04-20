@@ -22,6 +22,11 @@
 ### 🛠️ Languages & Tools
 
 <p align="left">
+  <a href="https://www.w3.org/html/" target="_blank"><img src="https://skillicons.dev/icons?i=html" height="40" /></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://skillicons.dev/icons?i=css" height="40" /></a>
+  <a href="https://jquery.com/" target="_blank"><img src="https://skillicons.dev/icons?i=jquery" height="40" /></a>
+  <a href="https://getbootstrap.com/" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap" height="40" /></a>
+  <a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express" height="40" /></a>
   <a href="https://reactjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=react" height="40" /></a>
   <a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" height="40" /></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" height="40" /></a>
@@ -43,26 +48,20 @@
   <a href="https://linkedin.com/in/amirmub" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="30" /></a>
   <a href="https://instagram.com/ami_rmub" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="30" /></a>
   <a href="mailto:amirmubarek01@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="30" /></a>
-</p> <br />
+</p>
 
 ---
-<h2 style="color: #44AEFB">📊  Statistics</h2>
-
-
-![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
-
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=amirmub&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=amirmub&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=amirmub&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /></td>
+  </tr>
+</table>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amirmub&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="left">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=amirmub&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
@@ -70,7 +69,7 @@
 
 ### 🏆 GitHub Trophies
 
-<p align="left">
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=amirmub&theme=tokyonight&row=1&margin-w=10&no-frame=true" />
 </p>
 
@@ -78,7 +77,7 @@
 
 ### 🔥 Quote of the Day
 
-> _“First, solve the problem. Then, write the code.”_ 
+> _“First, solve the problem. Then, write the code.”_ – John Johnson
 
 ---
 
