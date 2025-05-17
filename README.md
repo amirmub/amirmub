@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Amir Mubarek</h1>
-<h3 align="center">🚀  Web Developer | 🛍️ E-commerce Enthusiast | 🌍 Based in Ethiopia</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&size=30&width=435&lines=👋+HI,+I'm+Amir+Mubarek)](https://git.io/typing-svg)
+🚀  Web Developer | 🛍️ E-commerce Enthusiast | 🌍 Based in Ethiopia</h3>
 
 <img align="right" alt="coding" width="400" src="https://as1.ftcdn.net/v2/jpg/10/04/21/54/1000_F_1004215499_v2M0f1XpEQuFJQyI8qy82N0oExck8gyS.jpg" />
 
