@@ -72,7 +72,7 @@
 ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
 
 
-### 📊 GitHub Stats
+<!--### 📊 GitHub Stats
 
 <table>
   <tr>
@@ -83,9 +83,9 @@
   </tr>
 </table>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=amirmub&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+</p> -->
 
 ---
 
